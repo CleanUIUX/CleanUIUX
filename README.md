@@ -20,4 +20,17 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleanUIUX&layout=compact&theme=tokyonight)
 </div>
 
+## ⚡Project Career
+
+<div style="font-size:12px; line-height:1.8">
+<br>
+
+
+| Date | Project Name|
+| :---: | :--- |
+| 2022-09 ~ 2023-12 | 롯데카드사 운영 |
+| 2022-07 ~ 2022-08 | 롯데카드사(띵샵) 구축 |
+| 2022-03 ~ 2022-06 | LG CNS 운영 |
+| 2022-01 ~ 202x-xx | 파인너츠 |
+
 </div>
