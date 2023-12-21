@@ -4,9 +4,8 @@
 <p>My main skills are HTML, CSS, JavaScript, React and TypeScript.</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.🔥</p>
 
-##
-<h3>My hobbies are...</h3>
-<p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games</p>
+<!-- <h3>My hobbies are...</h3>
+<p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games</p> -->
   
 ##
 <h3>👉 Tech Stack</h3>
